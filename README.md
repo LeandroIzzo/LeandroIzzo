@@ -1,5 +1,5 @@
 ## 👋Olá, meu nome é Leandro A. Izzo, sou um estudante de Ciência de Dados!
-Este perfil foi criado com o objetivos de publicar meus projetos de estudo.
+Este perfil foi criado com o objetivo de publicar meus projetos de estudo.
 
 <div align="center">
   <a href="https://github.com/LeandroIzzo">
